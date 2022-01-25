@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Test-SignIn-Formik/static/css/main.95978f3c.css",
+    "main.js": "/Test-SignIn-Formik/static/js/main.fa2b041c.js",
+    "index.html": "/Test-SignIn-Formik/index.html",
+    "main.95978f3c.css.map": "/Test-SignIn-Formik/static/css/main.95978f3c.css.map",
+    "main.fa2b041c.js.map": "/Test-SignIn-Formik/static/js/main.fa2b041c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95978f3c.css",
+    "static/js/main.fa2b041c.js"
+  ]
+}
